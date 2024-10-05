@@ -30,7 +30,7 @@ These fields play a critical role in managing loans, assessing borrower risk, st
 The main goal of the project is to create a comprehensive **Bank Loan Report** that provides insights into key loan metrics and performance over time. The report is divided into **three dashboards** to support data-driven decision-making in the bank's lending strategy.
 
 ## Dashboard 1: Summary
-![Summary]()
+![Summary](Summary.png)
 
 The Summary Dashboard provides an overview of the bank's lending activities and performance through the following **Key Performance Indicators (KPIs)**:
 1. **Total Loan Applications**: Calculate the total number of loan applications and track Month-to-Date (MTD) and Month-over-Month (MoM) changes.
@@ -47,7 +47,7 @@ To assess loan performance, the project distinguishes between **Good Loans** (e.
   - Bad Loan Application Percentage, Total Bad Loan Applications, Funded Amount, and Total Received Amount.
 
 ## Dashboard 2: Visual Overview
-[Summary](Summary.png)
+![Visual-Overview](Visual%20Overview.png)
 
 This dashboard features a variety of **charts** for visualizing loan data:
 1. **Monthly Trends (Line Chart)**: Displays trends in loan applications, funded amounts, and received amounts over time.
@@ -58,7 +58,7 @@ This dashboard features a variety of **charts** for visualizing loan data:
 6. **Home Ownership Analysis (Tree Map)**: Displays lending metrics based on home ownership status.
 
 ## Dashboard 3: Details
-![Summary]()
+![Details](Details.png)
 
 The **Details Dashboard** consolidates all loan data into a comprehensive view, offering a detailed snapshot of key metrics such as loan applications, amounts, interest rates, and borrower profiles. This dashboard serves as a centralized interface for accessing and analyzing critical information.
 
